@@ -1,8 +1,13 @@
 # oasys_hercules (5 March 2026)
 Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines with OASYS" at the HERCULES school
 
+
 ## Download and install Oasys:
+
+This course will be given using the new OASYS2 version, that is still in beta, but it is fully functional. 
+
 Follow the instructions here: https://github.com/oasys-kit/OASYS2/wiki
+
 In particular: 
 - Linux: https://github.com/oasys-kit/OASYS2/wiki/Install-Oasys-in-Linux
 - MacOS: https://github.com/oasys-kit/OASYS2/wiki/Install-Oasys-in-MacOS
