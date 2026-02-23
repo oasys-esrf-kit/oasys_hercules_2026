@@ -1,5 +1,5 @@
 # oasys_hercules_2026 (5 March 2026)
-Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines with OASYS" at the HERCULES school https://hercules-school.eu/
+Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines with OASYS" at the [HERCULES school](https://hercules-school.eu/)
 
 
 ## Download and install Oasys:
@@ -50,3 +50,4 @@ There are other documents where you can find useful information on OASYS:
 
 - Shadow tutorial and examples: [https://github.com/oasys-kit/shadow4workspaces](https://github.com/oasys-kit/shadow4workspaces)
 - Slides and workspaces from the last OASYS school: [https://github.com/oasys-kit/oasys_school_desy](https://github.com/oasys-kit/oasys_school_desy)
+- Archived material from previous versions of the OASYS tutorial at HERCULES: [https://github.com/oasys-esrf-kit/oasys_hercules/](https://github.com/oasys-esrf-kit/oasys_hercules/) 
