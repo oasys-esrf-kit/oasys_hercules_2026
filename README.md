@@ -1,5 +1,5 @@
-# oasys_hercules (5 March 2026)
-Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines with OASYS" at the HERCULES school
+# oasys_hercules_2026 (5 March 2026)
+Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines with OASYS" at the HERCULES school https://hercules-school.eu/
 
 
 ## Download and install Oasys:
@@ -14,7 +14,7 @@ In particular:
 - Windows: https://github.com/oasys-kit/OASYS2/wiki/Install-Oasys-in-Windows-11
 later on, you may install one specific addon:
 
-- ESRF addon: https://github.com/oasys-esrf-kit/OASYS2-ESRF-Extensions/blob/master/README.md
+The  ESRF addon is used in some examples, but it is not mandatory. It can be installed following the instructions in https://github.com/oasys-esrf-kit/OASYS2-ESRF-Extensions/blob/master/README.md
 
 ## Contents
 
